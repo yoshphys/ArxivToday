@@ -10,8 +10,8 @@ from html.parser import HTMLParser
 from datetime import datetime, timedelta
 
 Categories = ["nucl-ex", "hep-ex", "nucl-th", "hep-th"]
-MaxResults = 2
-MaxTranslations = 2
+MaxResults = 10
+MaxTranslations = 10
 
 #__________________________________________________
 
